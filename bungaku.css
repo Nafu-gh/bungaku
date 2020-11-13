@@ -25,11 +25,10 @@ a {
   text-decoration: none;
 }
 
-.title {
-  height: 140px;
-}
-.title p{
-  padding-top: 65px;
+.title h1{
+  padding-top: 120px;
+  padding-bottom: 20px;
+  font-size: 35px;
 }
 
 
